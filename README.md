@@ -24,3 +24,4 @@ Create a pull request or reach out to a Steward directly to get assistance with 
 - Simona Pop ((https://twitter.com/Sim_Pop)
 - Jim Jagielski (https://twitter.com/jimjag)
 - Kames Geraghty (https://twitter.com/kamescg)
+- Alex Masmej (https://twitter.com/AlexMasmej)
