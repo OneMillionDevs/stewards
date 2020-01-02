@@ -19,7 +19,7 @@ Can you help write the Code of Conduct?
 
 Create a pull request or reach out to a Steward directly to get assistance with contributing.
 
-In short, until a Code of Conduct is ready (and even then) treat others with respect, compassion and patience.
+In short, until a Code of Conduct is ready (and even then) treat others with respect, compassion, and patience.
 
 ### Contributors
 
@@ -43,7 +43,8 @@ As of now Stewards are self-selecting and can be added via a pull request. Only 
 - Jim Jagielski (https://twitter.com/jimjag)
 - Kames Geraghty (https://twitter.com/kamescg)
 - Alex Masmej (https://twitter.com/AlexMasmej)
+- Gabrielle Micheletti (https://twitter.com/gabriellemic)
 
 # Sustainabily Growing the One Million Developer Culture
 
-Once a Code of Conduct has been created a more formal process can be followed for onboarding/offboarding both Contributors and Stewards.
+Once a Code of Conduct has been created, a more formal process can be followed for onboarding/offboarding both Contributors and Stewards.
