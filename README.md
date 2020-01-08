@@ -44,6 +44,7 @@ As of now Stewards are self-selecting and can be added via a pull request. Only 
 - Jim Jagielski (https://twitter.com/jimjag)
 - Alex Masmej (https://twitter.com/AlexMasmej)
 - Kames Geraghty (https://twitter.com/kamescg)
+- Sean Brennan (https://twitter.com/seanwbren)
 
 # Sustainabily Growing the One Million Developer Culture
 
