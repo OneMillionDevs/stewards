@@ -1,7 +1,5 @@
 # 1MD Code of Conduct
 
-Filename: 1MD_CODE_OF_CONDUCT.MD
-Location: Root Repository
 Purpose: This code outlines expectations for the One Million Developers' community of participants.
 
 ## Intent Statement
