@@ -13,13 +13,7 @@ Due to the nature of decentralization and distributed systems, it's difficult (p
 
 ### Code of Conduct
 
-We need a Code of Conduct to ensure the initive continues to be an environment everyone is able to contribute in.
-
-Can you help write the Code of Conduct?
-
-Create a pull request or reach out to a Steward directly to get assistance with contributing.
-
-In short, until a Code of Conduct is ready (and even then) treat others with respect, compassion, and patience.
+Please review the Code of Conduct to understand expectations for participation.
 
 ### Contributors
 
