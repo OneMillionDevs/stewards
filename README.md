@@ -39,6 +39,7 @@ As of now Stewards are self-selecting and can be added via a pull request. Only 
 - Alex Masmej (https://twitter.com/AlexMasmej)
 - Kames Geraghty (https://twitter.com/kamescg)
 - Sean Brennan (https://twitter.com/seanwbren)
+- Billy Luedtke (https://twitter.com/Billy_Luedtke)
 
 # Sustainabily Growing the One Million Developer Culture
 
