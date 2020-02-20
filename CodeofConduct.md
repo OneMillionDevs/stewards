@@ -1,7 +1,5 @@
 # 1MD Code of Conduct
 
-Filename: 1MD_CODE_OF_CONDUCT.MD
-Location: Root Repository
 Purpose: This code outlines expectations for the One Million Developers' community of participants.
 
 ## Intent Statement
@@ -20,7 +18,7 @@ One Million Developers commits to prioritizing the safety of they who are margin
 
 - [x] We strive to engender a welcoming and open channel for community participation.
 - [x] We strive to avoid [jargon and other non-inclusive language](https://open.buffer.com/inclusive-language-tech/) that can alienate or cause those underrepresented to feel excluded.
-- [x] We strive to encourage and recognizes the quietest voices, and not just those with the most confidence or volume.
+- [x] We strive to encourage and recognize the quietest voices, and not just those with the most confidence or volume.
 - [x] We recognize that the [primary language of the project may not be the first language of all contributors](https://docs.openstack.org/doc-contrib-guide/non-native-english-speakers.html), and where possible, will strive to provide transcripts of meetings and other key correspondence to be easily found.
 - [x] We enable ways for everyone to share their pronouns, and respect those in our conversations and communication.
 
@@ -118,7 +116,7 @@ This Code of Conduct is licensed under the [Creative Commons Attribution 3.0 Unp
 
 This Code of Conduct was forked from the example policy template from the [Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template/) (License [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/)) by [Otter Tech](https://otter.technology/code-of-conduct-training)
 
-Additional language was shaped by Simona Pop, Gabrielle Micheletti, Jim Jagielski, Kames Cox-Geraghty, Alex Masmej, [ADD NAMES].
+Additional language and directionality was shaped by Simona Pop, Gabrielle Micheletti, Jim Jagielski, Kames Cox-Geraghty, Alex Masmej.
 
 Language was incorporated and modified from the following Codes of Conduct:
 
